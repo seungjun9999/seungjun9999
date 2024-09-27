@@ -42,5 +42,16 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=csjcozy&bg_color=60,eba2ec,684eef&title_color=ffffff&text_color=ffffff"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csjcozy&layout=compact&bg_color=60,eba2ec,684eef&title_color=ffffff&text_color=ffffff"
            /> </div> 
+        <div align= "center">  </div> 
+<div align = "center">
+    <p align="center">
+        <img
+          src="https://render.gitanimals.org/farms/csjcozy"
+          width="600"
+          height="300"
+        />
+    </p>
+</div>
+</a>
     </div>
     
