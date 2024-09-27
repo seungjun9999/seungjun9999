@@ -1,10 +1,14 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:d4ef06&height=120&text=Hi,%20I'm%20csjcozy!&animation=fadeIn&fontColor=6ef028&fontSize=40" />
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> ❤ I am currently working on Android and backend development. My hobby is watching animation </div> 
-    </div>
+<div align="center">
+    <p align="center">
+        <img src="https://github.com/user-attachments/assets/0566bd59-c9a4-41ce-99f6-255297dfab2f">
+    </p>
+    <h1 style="color: #6ef028; font-size: 40px; margin-bottom: 10px;">Hi, I'm csjcozy!</h1>
+</div>
+<div style="text-align: left;"> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33; border-bottom: 1px solid #d8dee4; padding-bottom: 10px;"> 
+        ❤ I am currently working on Android and backend development. My hobby is watching animation 
+    </div> 
+</div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
