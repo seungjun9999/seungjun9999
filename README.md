@@ -7,6 +7,8 @@
 <div style="text-align: left;"> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33; border-bottom: 1px solid #d8dee4; padding-bottom: 10px;"> 
         ❤ I am currently working on Android and backend development. My hobby is watching animation !
+        <br/>
+        - Graduated from the Department of Embedded Systems Engineering
     </div> 
 </div>
     <div style="text-align: left;">
