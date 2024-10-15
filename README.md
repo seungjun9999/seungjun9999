@@ -9,6 +9,7 @@
         ❤ I am currently working on Android and backend development. My hobby is watching animation !
         <br/>
         - Graduated from the Department of Embedded Systems Engineering
+        <br/>
         - SAMSUNG SW ACADEMY FOR YOUTH 11th Mobile Track 
     </div> 
 </div>
