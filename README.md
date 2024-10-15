@@ -38,7 +38,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link="> </a>
          <a href=mailto:tmdwns63@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tmdwns63@gmail.com"> </a>
-         <a href=https://cjscozyboy99.notion.site/s-10b6e6c410008011bb8ddf5e3e54afdb?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://cjscozyboy99.notion.site/s-10b6e6c410008011bb8ddf5e3e54afdb?pvs=4"> </a>
+         <a href=https://cjscozyboy99.notion.site/1116e6c41000801ca369eacbf1076939?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://cjscozyboy99.notion.site/s-10b6e6c410008011bb8ddf5e3e54afdb?pvs=4"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
