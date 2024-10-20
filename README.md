@@ -5,13 +5,17 @@
     <h1 style="color: #6ef028; font-size: 40px; margin-bottom: 10px;">Hi, I'm csjcozy!</h1>
 </div>
 <div style="text-align: left;"> 
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33; border-bottom: 1px solid #d8dee4; padding-bottom: 10px;"> 
-        ❤ I am currently working on Android and backend development. My hobby is watching animation !
-        <br/>
-        - Graduated from the Department of Embedded Systems Engineering
-        <br/>
-        - SAMSUNG SW ACADEMY FOR YOUTH 11th Mobile Track 
-    </div> 
+    <div style="font-weight: 700; font-size: 16px; text-align: left; color: #282d33; border: 2px solid #d8dee4; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+    <h2 style="color: #6ef028; margin-top: 0;">👨‍💻 About Me</h2>
+    <ul style="list-style-type: none; padding-left: 0;">
+        <li>🚀 Currently working on Android and Backend development</li>
+        <li>🎓 Graduated from the Department of Embedded Systems Engineering</li>
+        <li>🏆 SAMSUNG SW ACADEMY FOR YOUTH 11th Mobile Track</li>
+        <li>📺 Hobby: Watching anime and exploring new technologies</li>
+        <li>🌱 Always learning and growing in the world of software development</li>
+    </ul>
+    <p style="margin-bottom: 0;">💡 Passionate about creating user-friendly applications and robust backend systems!</p>
+</div>
 </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
