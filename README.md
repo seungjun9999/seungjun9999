@@ -2,7 +2,7 @@
     <p align="center">
         <img src="https://github.com/user-attachments/assets/0566bd59-c9a4-41ce-99f6-255297dfab2f">
     </p>
-    <h1 style="color: #6ef028; font-size: 40px; margin-bottom: 10px;">Hi, I'm CSJ</h1>
+    <h1 style="color: #6ef028; font-size: 40px; margin-bottom: 10px;">Hi, I'm CSJ!</h1>
 </div>
 <div style="text-align: left;"> 
     <div style="font-weight: 700; font-size: 16px; text-align: left; color: #282d33; border: 2px solid #d8dee4; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
