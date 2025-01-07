@@ -57,7 +57,7 @@
         <div align= "center">  </div> 
 <div align = "center">
     <p align="center">
-        <a href="https://github.com/devxb/gitanimals">
+<a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/seungjun9999"
   width="600"
