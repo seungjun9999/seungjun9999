@@ -51,8 +51,8 @@
         
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdtls12)](https://solved.ac/tmdtls12)
 
-<img src="https://github-readme-stats.vercel.app/api?username=csjcozy&bg_color=60,eba2ec,684eef&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csjcozy&layout=compact&bg_color=60,eba2ec,684eef&title_color=ffffff&text_color=ffffff"
+<img src="https://github-readme-stats.vercel.app/api?username=seungjun9999&bg_color=60,eba2ec,684eef&title_color=ffffff&text_color=ffffff"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungjun9999&layout=compact&bg_color=60,eba2ec,684eef&title_color=ffffff&text_color=ffffff"
            /> </div> 
         <div align= "center">  </div> 
 <div align = "center">
